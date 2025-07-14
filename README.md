@@ -19,3 +19,6 @@ Fills up your home ram a little bit to keep it on top.
 
 KillAll:
 Kills every hacking.script on every server.
+
+Delete:
+Deletes every server purchased by Buy.script for if you want to update.

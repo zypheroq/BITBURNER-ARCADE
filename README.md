@@ -1,6 +1,9 @@
 # BITBURNER-ARCADE
 Scripts for the arcade in new toyko in BitBurner
 
+Warning:
+Scripts may throw errors, if they do, ignore them and continue with your gameplay.
+
 Hacking:
 Hacks, grows, weakens, whatever.
 

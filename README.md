@@ -17,9 +17,6 @@ Copies and executes "hacking.script" onto every server other than home.
 Buy:
 Buys servers with a while(true) loop, feel free to change this one.
 
-Filler:
-Fills up your home ram a little bit to keep it on top.
-
 KillAll:
 Kills every hacking.script on every server.
 
